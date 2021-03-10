@@ -3,4 +3,5 @@
 in project directory need run command:
 > sbt assembly
 
-<project_directory>\target\scala-2.13>java -jar jsonCountries-assembly-0.1.jar "test.json"
+in Windows 10 in project directory need go to dir "\target\scala-2.13\" and execute jar file:
+> java -jar jsonCountries-assembly-0.1.jar "test.json"
