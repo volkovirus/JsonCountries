@@ -24,6 +24,6 @@ object example extends App {
 
   val fos = new FileOutputStream(fileName)
   val ps = new PrintStream(fos)
-println("xxxx")
+
   ps.print(resultJson)
 }
