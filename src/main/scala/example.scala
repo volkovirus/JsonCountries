@@ -20,8 +20,6 @@ object example extends App {
   val filteredListCountry = listCountry.filter(_.region == "Africa").sortBy(- _.area).take(10)
   val resultJson = (for (country <- filteredListCountry) yield CountryNew(country.name.official,country.capital match {case header::body => header case _ => ""},country.area)).asJson
 
-  println(resultJson)
-
   val fileName: String = if (args.nonEmpty) args(0) else "default.json"
 
   val fos = new FileOutputStream(fileName)

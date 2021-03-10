@@ -1,23 +1,20 @@
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: circe-parser_2.13-0.12.3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: circe-jawn_2.13-0.12.3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: circe-numbers_2.13-0.12.3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: cats-macros_2.13-2.0.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: circe-core_2.13-0.12.3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: circe-generic_2.13-0.12.3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: shapeless_2.13-2.3.3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: jawn-parser_2.13-0.14.2.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: cats-kernel_2.13-2.0.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: scala-library-2.13.5.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncluding: cats-core_2.13-2.0.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: circe-jawn_2.13-0.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: circe-generic_2.13-0.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: circe-parser_2.13-0.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: circe-numbers_2.13-0.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: circe-core_2.13-0.12.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: cats-macros_2.13-2.0.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: jawn-parser_2.13-0.14.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: shapeless_2.13-2.3.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: cats-kernel_2.13-2.0.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: cats-core_2.13-2.0.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding from cache: scala-library-2.13.5.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
 [0m[[0m[0mdebug[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
 [0m[[0m[0mdebug[0m] [0m[0mMerging files...[0m
-[0m[[0m[0mdebug[0m] [0m[0mMerging 'NOTICE' with strategy 'rename'[0m
-[0m[[0m[0mdebug[0m] [0m[0mMerging 'LICENSE' with strategy 'rename'[0m
 [0m[[0m[0mdebug[0m] [0m[0mMerging 'META-INF\MANIFEST.MF' with strategy 'discard'[0m
 [0m[[0m[0minfo[0m] [0m[0mStrategy 'discard' was applied to a file (Run the task at debug level to see details)[0m
-[0m[[0m[0minfo[0m] [0m[0mStrategy 'rename' was applied to 2 files (Run the task at debug level to see details)[0m
-[0m[[0m[0mdebug[0m] [0m[0mSHA-1: 96fc0032fadb34d78883692e263c1c9a4ef5cb85[0m
+[0m[[0m[0mdebug[0m] [0m[0mSHA-1: 180e3d46b3c3182fb194b15a32141abb4637f16b[0m
 [0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\avolkov\IdeaProjects\JsonCountries\target\scala-2.13\jsonCountries-assembly-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Country$.class[0m
